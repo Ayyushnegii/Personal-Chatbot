@@ -1,0 +1,5 @@
+{
+  "name": "Personal AI Chatbot",
+  "description": "Create a personalized AI chatbot based on your own information. Configure your name and details, and let the AI answer questions about you in a conversational chat interface.",
+  "requestFramePermissions": []
+}
